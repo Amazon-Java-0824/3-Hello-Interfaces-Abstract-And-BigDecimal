@@ -156,6 +156,3 @@ public class ShoppingCartSystem {
 1. Implement a discount system using BigDecimal.
 2. Add a method to remove items from the cart.
 
-Remember to use proper exception handling when working with BigDecimal arithmetic. Good luck!
-
-This lesson builds on your previous knowledge of classes and objects, while introducing more advanced concepts that will be crucial for building larger, more complex Java applications. In future lessons, we'll explore how these concepts are used in real-world scenarios and dive deeper into design patterns that utilize interfaces and abstract classes.
